@@ -1,0 +1,1077 @@
+timestamp,message,logStreamName
+1693337782115,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337782125,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337782392,"START RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc Version: $LATEST
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337782411,"START RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a Version: $LATEST
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337783146,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337783164,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]04d62a1141e0499684ba61d35b41842c
+1693337783298,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]2a78db19ef4340e988c83c858612d13a
+1693337783304,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]4edf89a3f396454491f2a4ee1b16c13d
+1693337783434,"START RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9 Version: $LATEST
+",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337783446,"START RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e Version: $LATEST
+",2023/08/29/[$LATEST]04d62a1141e0499684ba61d35b41842c
+1693337783575,"START RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c Version: $LATEST
+",2023/08/29/[$LATEST]4edf89a3f396454491f2a4ee1b16c13d
+1693337783595,"START RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf Version: $LATEST
+",2023/08/29/[$LATEST]2a78db19ef4340e988c83c858612d13a
+1693337783947,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337783954,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]36006a5ca1be4959ac22495a6c812b8b
+1693337784143,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337784214,"START RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4 Version: $LATEST
+",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337784240,"START RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de Version: $LATEST
+",2023/08/29/[$LATEST]36006a5ca1be4959ac22495a6c812b8b
+1693337784410,"START RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a Version: $LATEST
+",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337784668,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337784670,"END RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337784670,"REPORT RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a	Duration: 2258.66 ms	Billed Duration: 2259 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 285.58 ms	
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337784682,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337784703,"END RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337784703,"REPORT RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc	Duration: 2310.96 ms	Billed Duration: 2311 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 276.20 ms	
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337784820,"START RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff Version: $LATEST
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337784820,"START RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa Version: $LATEST
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337784913,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]5f44afbf1e0a4277a01aaafee7d5c64f
+1693337784961,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337784965,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337785160,"START RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567 Version: $LATEST
+",2023/08/29/[$LATEST]5f44afbf1e0a4277a01aaafee7d5c64f
+1693337785220,"START RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337785233,"START RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0 Version: $LATEST
+",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337785328,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337785344,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337785348,"END RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337785349,"REPORT RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa	Duration: 528.80 ms	Billed Duration: 529 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337785363,"END RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337785363,"REPORT RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff	Duration: 543.12 ms	Billed Duration: 544 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337785676,"START RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f Version: $LATEST
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337785680,"START RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59 Version: $LATEST
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337785749,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337785761,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337785763,"END RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9
+",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337785763,"REPORT RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9	Duration: 2328.38 ms	Billed Duration: 2329 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 288.05 ms	
+",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337785781,"START RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60 Version: $LATEST
+",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337785784,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337785808,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337785809,"END RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337785809,"REPORT RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59	Duration: 128.99 ms	Billed Duration: 129 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]fe554ec1d8704f8c9617ea839dcf2573
+1693337785815,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]4edf89a3f396454491f2a4ee1b16c13d
+1693337785819,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]42d0fdb9728241749ebb98e0a4e8cb79
+1693337785822,"END RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337785822,"REPORT RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f	Duration: 145.56 ms	Billed Duration: 146 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]7ec0f7efa6ce4bb2bc3a532c7eb03dff
+1693337785836,"END RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c
+",2023/08/29/[$LATEST]4edf89a3f396454491f2a4ee1b16c13d
+1693337785836,"REPORT RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c	Duration: 2260.90 ms	Billed Duration: 2261 ms	Memory Size: 128 MB	Max Memory Used: 77 MB	Init Duration: 270.20 ms	
+",2023/08/29/[$LATEST]4edf89a3f396454491f2a4ee1b16c13d
+1693337785867,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]04d62a1141e0499684ba61d35b41842c
+1693337785889,"END RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e
+",2023/08/29/[$LATEST]04d62a1141e0499684ba61d35b41842c
+1693337785889,"REPORT RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e	Duration: 2443.44 ms	Billed Duration: 2444 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 281.22 ms	
+",2023/08/29/[$LATEST]04d62a1141e0499684ba61d35b41842c
+1693337785936,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]2a78db19ef4340e988c83c858612d13a
+1693337785957,"END RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf
+",2023/08/29/[$LATEST]2a78db19ef4340e988c83c858612d13a
+1693337785957,"REPORT RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf	Duration: 2362.45 ms	Billed Duration: 2363 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 296.57 ms	
+",2023/08/29/[$LATEST]2a78db19ef4340e988c83c858612d13a
+1693337786004,"START RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2 Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337786344,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337786401,"END RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60
+",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337786401,"REPORT RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60	Duration: 620.17 ms	Billed Duration: 621 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]92e2ae0410ab4d21b4df2035e1b0580d
+1693337786506,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]36006a5ca1be4959ac22495a6c812b8b
+1693337786507,"END RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de
+",2023/08/29/[$LATEST]36006a5ca1be4959ac22495a6c812b8b
+1693337786507,"REPORT RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de	Duration: 2266.81 ms	Billed Duration: 2267 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 285.53 ms	
+",2023/08/29/[$LATEST]36006a5ca1be4959ac22495a6c812b8b
+1693337786558,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337786560,"END RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4
+",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337786560,"REPORT RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4	Duration: 2345.71 ms	Billed Duration: 2346 ms	Memory Size: 128 MB	Max Memory Used: 77 MB	Init Duration: 266.44 ms	
+",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337786738,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337786759,"END RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a
+",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337786759,"REPORT RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a	Duration: 2348.97 ms	Billed Duration: 2349 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 267.03 ms	
+",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337786863,"START RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132 Version: $LATEST
+",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337786864,"START RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2 Version: $LATEST
+",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337787269,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]5f44afbf1e0a4277a01aaafee7d5c64f
+1693337787289,"END RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567
+",2023/08/29/[$LATEST]5f44afbf1e0a4277a01aaafee7d5c64f
+1693337787289,"REPORT RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567	Duration: 2129.06 ms	Billed Duration: 2130 ms	Memory Size: 128 MB	Max Memory Used: 77 MB	Init Duration: 245.62 ms	
+",2023/08/29/[$LATEST]5f44afbf1e0a4277a01aaafee7d5c64f
+1693337787399,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337787418,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337787419,"END RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132
+",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337787419,"REPORT RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132	Duration: 555.44 ms	Billed Duration: 556 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]aa0ad8a375244b9b8b5c7194c1129167
+1693337787438,"END RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2
+",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337787439,"REPORT RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2	Duration: 574.72 ms	Billed Duration: 575 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]274c3ec326fe463b938439653de4305e
+1693337787505,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337787524,"END RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0
+",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337787524,"REPORT RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0	Duration: 2291.65 ms	Billed Duration: 2292 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 267.20 ms	
+",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337787584,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337787605,"END RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337787605,"REPORT RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7	Duration: 2384.69 ms	Billed Duration: 2385 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 257.73 ms	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337788251,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337788271,"END RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337788271,"REPORT RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2	Duration: 2267.16 ms	Billed Duration: 2268 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 254.67 ms	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337839823,"START RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337840294,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337840331,"END RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337840331,"REPORT RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a	Duration: 508.51 ms	Billed Duration: 509 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337842658,"START RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337842753,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337842792,"END RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337842792,"REPORT RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de	Duration: 134.15 ms	Billed Duration: 135 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337842912,"START RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337842941,"START RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f Version: $LATEST
+",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337842945,"START RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337843071,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843072,"END RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843072,"REPORT RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a	Duration: 160.18 ms	Billed Duration: 161 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843465,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337843472,"START RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843485,"END RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f
+",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337843485,"REPORT RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f	Duration: 544.12 ms	Billed Duration: 545 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]21c9d48945c84cf499fb189b8b5b64c6
+1693337843486,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337843505,"END RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337843505,"REPORT RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9	Duration: 560.30 ms	Billed Duration: 561 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337843612,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843631,"END RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843631,"REPORT RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff	Duration: 159.85 ms	Billed Duration: 160 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843828,"START RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7 Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843973,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843992,"END RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337843992,"REPORT RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7	Duration: 164.08 ms	Billed Duration: 165 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337845576,"START RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132 Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337845693,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337845731,"END RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337845731,"REPORT RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132	Duration: 155.04 ms	Billed Duration: 156 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846072,"START RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846193,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846231,"END RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846231,"REPORT RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c	Duration: 159.01 ms	Billed Duration: 160 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846466,"START RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa Version: $LATEST
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846518,"START RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337846574,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846611,"END RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846611,"REPORT RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa	Duration: 145.06 ms	Billed Duration: 146 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+",2023/08/29/[$LATEST]3beda7a9f6a14a71a40b1579a33f9f87
+1693337846627,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337846666,"END RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337846666,"REPORT RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60	Duration: 147.70 ms	Billed Duration: 148 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337847960,"START RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337848125,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337848126,"END RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337848126,"REPORT RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59	Duration: 165.94 ms	Billed Duration: 166 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337848655,"START RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337848767,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337848785,"END RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337848785,"REPORT RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0	Duration: 130.12 ms	Billed Duration: 131 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337849474,"START RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337849587,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337849625,"END RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337849625,"REPORT RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567	Duration: 150.94 ms	Billed Duration: 151 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337850671,"START RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337850787,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337850825,"END RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337850825,"REPORT RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4	Duration: 154.12 ms	Billed Duration: 155 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337851035,"START RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337851148,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337851185,"END RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337851185,"REPORT RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e	Duration: 150.02 ms	Billed Duration: 151 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337851852,"START RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337851967,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852005,"END RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852005,"REPORT RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc	Duration: 153.70 ms	Billed Duration: 154 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852105,"START RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852246,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852266,"END RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852266,"REPORT RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf	Duration: 160.43 ms	Billed Duration: 161 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852403,"START RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852527,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852565,"END RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337852565,"REPORT RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2	Duration: 162.38 ms	Billed Duration: 163 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337853577,"START RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2 Version: $LATEST
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337853726,"[ERROR] NameError: name 'dynamo_resource' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 15, in lambda_handler
+    dynamo_table = dynamo_resource.Table(NOMBRE_TABLA)",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337853728,"END RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337853728,"REPORT RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2	Duration: 151.27 ms	Billed Duration: 152 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+",2023/08/29/[$LATEST]3e74d0bda4a841868707e17c682aefb7
+1693337920443,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337920462,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337920692,"START RequestId: fb8cece8-4ac1-461e-8be0-5b4811da7d95 Version: $LATEST
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337920725,"START RequestId: fabb38a7-8f13-4f2f-be33-1ac754b27837 Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337921189,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]8c2514d939de4118ac6e488a17d89d68
+1693337921209,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337921210,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]a1fa0a04c4844ceebe24d259b0ac2b0d
+1693337921447,"START RequestId: ca2d0347-8d15-445f-9ec2-f95dede94b7c Version: $LATEST
+",2023/08/29/[$LATEST]8c2514d939de4118ac6e488a17d89d68
+1693337921461,"START RequestId: 33ae3261-53b0-40d6-bf42-3f5c3184dd9b Version: $LATEST
+",2023/08/29/[$LATEST]a1fa0a04c4844ceebe24d259b0ac2b0d
+1693337921483,"START RequestId: 1ab20cd8-c0fb-49d7-bd48-61261469eae9 Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337921510,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337921779,"START RequestId: a1fdc70e-bbc1-4e86-bc77-3cb65acf7967 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337922221,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]94cb2317dd884173ba57040132135623
+1693337922231,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]04cda52b8c8e4a0697740eed0ef1aa51
+1693337922245,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]26ee5bd4ea4c4c868691c2c04a721cbc
+1693337922492,"START RequestId: c11f3f41-24a8-4460-a43c-6eefb06ca2ff Version: $LATEST
+",2023/08/29/[$LATEST]04cda52b8c8e4a0697740eed0ef1aa51
+1693337922500,"START RequestId: 427fa4aa-6dd3-4bd7-8068-58c42f68ee58 Version: $LATEST
+",2023/08/29/[$LATEST]94cb2317dd884173ba57040132135623
+1693337922517,"START RequestId: fee87eaf-ccdf-4468-b748-c6a1cfb27b9e Version: $LATEST
+",2023/08/29/[$LATEST]26ee5bd4ea4c4c868691c2c04a721cbc
+1693337922551,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]5bc7a4c85d714cf5a438510b97d05b17
+1693337922811,"START RequestId: c4f9c86f-dce3-4166-808c-805b0347f971 Version: $LATEST
+",2023/08/29/[$LATEST]5bc7a4c85d714cf5a438510b97d05b17
+1693337923248,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]e2f76ab8038840bfa520742be714ba8b
+1693337923256,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]b95b449f9b134118bb7664c47661396f
+1693337923400,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]efddf27577a54ceca6d95746b0c033ef
+1693337923410,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]ae554275246247a4a730bcdd767da465
+1693337923518,"START RequestId: dafa432e-4011-4864-ab25-85152fec7e6a Version: $LATEST
+",2023/08/29/[$LATEST]e2f76ab8038840bfa520742be714ba8b
+1693337923520,"START RequestId: bc0033a8-f475-445d-ba74-b26574d31e01 Version: $LATEST
+",2023/08/29/[$LATEST]b95b449f9b134118bb7664c47661396f
+1693337923664,"START RequestId: e6e74121-85d0-49bd-88e8-fd209cec6ada Version: $LATEST
+",2023/08/29/[$LATEST]efddf27577a54ceca6d95746b0c033ef
+1693337923689,"START RequestId: c2e714a0-87e2-4e93-b87e-db072e255a62 Version: $LATEST
+",2023/08/29/[$LATEST]ae554275246247a4a730bcdd767da465
+1693337923716,"2023-08-29T19:38:43.715Z fb8cece8-4ac1-461e-8be0-5b4811da7d95 Task timed out after 3.02 seconds
+
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337923716,"END RequestId: fb8cece8-4ac1-461e-8be0-5b4811da7d95
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337923716,"REPORT RequestId: fb8cece8-4ac1-461e-8be0-5b4811da7d95	Duration: 3024.12 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 248.10 ms	
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337923771,"2023-08-29T19:38:43.771Z fabb38a7-8f13-4f2f-be33-1ac754b27837 Task timed out after 3.05 seconds
+
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337923771,"END RequestId: fabb38a7-8f13-4f2f-be33-1ac754b27837
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337923771,"REPORT RequestId: fabb38a7-8f13-4f2f-be33-1ac754b27837	Duration: 3045.91 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 262.51 ms	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337923806,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337923878,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337924220,"START RequestId: b7f752ad-e488-4ef7-94a0-f977b5b6e168 Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337924370,"START RequestId: 0416499d-a800-4f5e-a720-dedcde38b87b Version: $LATEST
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337924452,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337924483,"2023-08-29T19:38:44.483Z 33ae3261-53b0-40d6-bf42-3f5c3184dd9b Task timed out after 3.02 seconds
+
+",2023/08/29/[$LATEST]a1fa0a04c4844ceebe24d259b0ac2b0d
+1693337924483,"END RequestId: 33ae3261-53b0-40d6-bf42-3f5c3184dd9b
+",2023/08/29/[$LATEST]a1fa0a04c4844ceebe24d259b0ac2b0d
+1693337924483,"REPORT RequestId: 33ae3261-53b0-40d6-bf42-3f5c3184dd9b	Duration: 3022.25 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 250.08 ms	
+",2023/08/29/[$LATEST]a1fa0a04c4844ceebe24d259b0ac2b0d
+1693337924490,"2023-08-29T19:38:44.490Z ca2d0347-8d15-445f-9ec2-f95dede94b7c Task timed out after 3.04 seconds
+
+",2023/08/29/[$LATEST]8c2514d939de4118ac6e488a17d89d68
+1693337924490,"END RequestId: ca2d0347-8d15-445f-9ec2-f95dede94b7c
+",2023/08/29/[$LATEST]8c2514d939de4118ac6e488a17d89d68
+1693337924490,"REPORT RequestId: ca2d0347-8d15-445f-9ec2-f95dede94b7c	Duration: 3043.13 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	Init Duration: 256.87 ms	
+",2023/08/29/[$LATEST]8c2514d939de4118ac6e488a17d89d68
+1693337924501,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337924534,"2023-08-29T19:38:44.534Z 1ab20cd8-c0fb-49d7-bd48-61261469eae9 Task timed out after 3.05 seconds
+
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337924534,"END RequestId: 1ab20cd8-c0fb-49d7-bd48-61261469eae9
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337924534,"REPORT RequestId: 1ab20cd8-c0fb-49d7-bd48-61261469eae9	Duration: 3051.42 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	Init Duration: 272.85 ms	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337924577,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]8c2514d939de4118ac6e488a17d89d68
+1693337924594,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]a1fa0a04c4844ceebe24d259b0ac2b0d
+1693337924633,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337924714,"START RequestId: 9ab0fc78-5bc0-4186-be24-22861385cd65 Version: $LATEST
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337924779,"START RequestId: 8aaa19b0-4957-4115-a63a-d137afaeef0b Version: $LATEST
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337924784,"2023-08-29T19:38:44.784Z a1fdc70e-bbc1-4e86-bc77-3cb65acf7967 Task timed out after 3.01 seconds
+
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337924784,"END RequestId: a1fdc70e-bbc1-4e86-bc77-3cb65acf7967
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337924784,"REPORT RequestId: a1fdc70e-bbc1-4e86-bc77-3cb65acf7967	Duration: 3005.03 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 267.68 ms	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337924886,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337925328,"START RequestId: 548e6788-7889-4cf9-bfa6-91cf5c74a184 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337925376,"START RequestId: 4dde10c7-2f51-4851-b199-f57df700e87f Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337925516,"2023-08-29T19:38:45.515Z c11f3f41-24a8-4460-a43c-6eefb06ca2ff Task timed out after 3.02 seconds
+
+",2023/08/29/[$LATEST]04cda52b8c8e4a0697740eed0ef1aa51
+1693337925516,"END RequestId: c11f3f41-24a8-4460-a43c-6eefb06ca2ff
+",2023/08/29/[$LATEST]04cda52b8c8e4a0697740eed0ef1aa51
+1693337925516,"REPORT RequestId: c11f3f41-24a8-4460-a43c-6eefb06ca2ff	Duration: 3023.53 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 260.85 ms	
+",2023/08/29/[$LATEST]04cda52b8c8e4a0697740eed0ef1aa51
+1693337925542,"2023-08-29T19:38:45.542Z 427fa4aa-6dd3-4bd7-8068-58c42f68ee58 Task timed out after 3.04 seconds
+
+",2023/08/29/[$LATEST]94cb2317dd884173ba57040132135623
+1693337925542,"END RequestId: 427fa4aa-6dd3-4bd7-8068-58c42f68ee58
+",2023/08/29/[$LATEST]94cb2317dd884173ba57040132135623
+1693337925542,"REPORT RequestId: 427fa4aa-6dd3-4bd7-8068-58c42f68ee58	Duration: 3042.19 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 278.03 ms	
+",2023/08/29/[$LATEST]94cb2317dd884173ba57040132135623
+1693337925547,"2023-08-29T19:38:45.547Z fee87eaf-ccdf-4468-b748-c6a1cfb27b9e Task timed out after 3.03 seconds
+
+",2023/08/29/[$LATEST]26ee5bd4ea4c4c868691c2c04a721cbc
+1693337925547,"END RequestId: fee87eaf-ccdf-4468-b748-c6a1cfb27b9e
+",2023/08/29/[$LATEST]26ee5bd4ea4c4c868691c2c04a721cbc
+1693337925547,"REPORT RequestId: fee87eaf-ccdf-4468-b748-c6a1cfb27b9e	Duration: 3029.44 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 270.92 ms	
+",2023/08/29/[$LATEST]26ee5bd4ea4c4c868691c2c04a721cbc
+1693337925610,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]04cda52b8c8e4a0697740eed0ef1aa51
+1693337925638,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]26ee5bd4ea4c4c868691c2c04a721cbc
+1693337925640,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]94cb2317dd884173ba57040132135623
+1693337925860,"2023-08-29T19:38:45.860Z c4f9c86f-dce3-4166-808c-805b0347f971 Task timed out after 3.05 seconds
+
+",2023/08/29/[$LATEST]5bc7a4c85d714cf5a438510b97d05b17
+1693337925860,"END RequestId: c4f9c86f-dce3-4166-808c-805b0347f971
+",2023/08/29/[$LATEST]5bc7a4c85d714cf5a438510b97d05b17
+1693337925860,"REPORT RequestId: c4f9c86f-dce3-4166-808c-805b0347f971	Duration: 3049.28 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 258.99 ms	
+",2023/08/29/[$LATEST]5bc7a4c85d714cf5a438510b97d05b17
+1693337925962,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]5bc7a4c85d714cf5a438510b97d05b17
+1693337926541,"2023-08-29T19:38:46.541Z bc0033a8-f475-445d-ba74-b26574d31e01 Task timed out after 3.02 seconds
+
+",2023/08/29/[$LATEST]b95b449f9b134118bb7664c47661396f
+1693337926541,"END RequestId: bc0033a8-f475-445d-ba74-b26574d31e01
+",2023/08/29/[$LATEST]b95b449f9b134118bb7664c47661396f
+1693337926541,"REPORT RequestId: bc0033a8-f475-445d-ba74-b26574d31e01	Duration: 3020.55 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 263.70 ms	
+",2023/08/29/[$LATEST]b95b449f9b134118bb7664c47661396f
+1693337926552,"2023-08-29T19:38:46.552Z dafa432e-4011-4864-ab25-85152fec7e6a Task timed out after 3.03 seconds
+
+",2023/08/29/[$LATEST]e2f76ab8038840bfa520742be714ba8b
+1693337926552,"END RequestId: dafa432e-4011-4864-ab25-85152fec7e6a
+",2023/08/29/[$LATEST]e2f76ab8038840bfa520742be714ba8b
+1693337926552,"REPORT RequestId: dafa432e-4011-4864-ab25-85152fec7e6a	Duration: 3034.16 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 269.85 ms	
+",2023/08/29/[$LATEST]e2f76ab8038840bfa520742be714ba8b
+1693337926639,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]e2f76ab8038840bfa520742be714ba8b
+1693337926639,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]b95b449f9b134118bb7664c47661396f
+1693337926681,"2023-08-29T19:38:46.680Z e6e74121-85d0-49bd-88e8-fd209cec6ada Task timed out after 3.02 seconds
+
+",2023/08/29/[$LATEST]efddf27577a54ceca6d95746b0c033ef
+1693337926681,"END RequestId: e6e74121-85d0-49bd-88e8-fd209cec6ada
+",2023/08/29/[$LATEST]efddf27577a54ceca6d95746b0c033ef
+1693337926681,"REPORT RequestId: e6e74121-85d0-49bd-88e8-fd209cec6ada	Duration: 3016.58 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 263.74 ms	
+",2023/08/29/[$LATEST]efddf27577a54ceca6d95746b0c033ef
+1693337926723,"2023-08-29T19:38:46.723Z c2e714a0-87e2-4e93-b87e-db072e255a62 Task timed out after 3.03 seconds
+
+",2023/08/29/[$LATEST]ae554275246247a4a730bcdd767da465
+1693337926723,"END RequestId: c2e714a0-87e2-4e93-b87e-db072e255a62
+",2023/08/29/[$LATEST]ae554275246247a4a730bcdd767da465
+1693337926723,"REPORT RequestId: c2e714a0-87e2-4e93-b87e-db072e255a62	Duration: 3033.66 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 278.61 ms	
+",2023/08/29/[$LATEST]ae554275246247a4a730bcdd767da465
+1693337926787,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]efddf27577a54ceca6d95746b0c033ef
+1693337926817,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]ae554275246247a4a730bcdd767da465
+1693337926952,"[ERROR] NameError: name 'dybamodb_table' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 67, in lambda_handler
+    dybamodb_table.put_item(Item=json.loads(json.dumps(element), parse_float=Decimal))",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337926969,"END RequestId: b7f752ad-e488-4ef7-94a0-f977b5b6e168
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337926969,"REPORT RequestId: b7f752ad-e488-4ef7-94a0-f977b5b6e168	Duration: 2749.42 ms	Billed Duration: 2750 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337927041,"[ERROR] NameError: name 'dybamodb_table' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 67, in lambda_handler
+    dybamodb_table.put_item(Item=json.loads(json.dumps(element), parse_float=Decimal))",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337927055,"END RequestId: 0416499d-a800-4f5e-a720-dedcde38b87b
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337927055,"REPORT RequestId: 0416499d-a800-4f5e-a720-dedcde38b87b	Duration: 2684.49 ms	Billed Duration: 2685 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337927745,"2023-08-29T19:38:47.745Z 9ab0fc78-5bc0-4186-be24-22861385cd65 Task timed out after 3.03 seconds
+
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337927745,"END RequestId: 9ab0fc78-5bc0-4186-be24-22861385cd65
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337927745,"REPORT RequestId: 9ab0fc78-5bc0-4186-be24-22861385cd65	Duration: 3030.18 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 261.67 ms	
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337927816,"2023-08-29T19:38:47.816Z 8aaa19b0-4957-4115-a63a-d137afaeef0b Task timed out after 3.04 seconds
+
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337927816,"END RequestId: 8aaa19b0-4957-4115-a63a-d137afaeef0b
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337927816,"REPORT RequestId: 8aaa19b0-4957-4115-a63a-d137afaeef0b	Duration: 3036.85 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 278.35 ms	
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337927836,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337927915,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337928105,"[ERROR] NameError: name 'dybamodb_table' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 67, in lambda_handler
+    dybamodb_table.put_item(Item=json.loads(json.dumps(element), parse_float=Decimal))",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337928107,"END RequestId: 548e6788-7889-4cf9-bfa6-91cf5c74a184
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337928107,"REPORT RequestId: 548e6788-7889-4cf9-bfa6-91cf5c74a184	Duration: 2778.41 ms	Billed Duration: 2779 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337928118,"[ERROR] NameError: name 'dybamodb_table' is not defined
+Traceback (most recent call last):
+  File ""/var/task/lambda_function.py"", line 67, in lambda_handler
+    dybamodb_table.put_item(Item=json.loads(json.dumps(element), parse_float=Decimal))",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337928133,"END RequestId: 4dde10c7-2f51-4851-b199-f57df700e87f
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337928133,"REPORT RequestId: 4dde10c7-2f51-4851-b199-f57df700e87f	Duration: 2756.08 ms	Billed Duration: 2757 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337952635,"START RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9 Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337953353,"Updated item with id 346698
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337953353,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337953412,"END RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337953412,"REPORT RequestId: 8973ef81-f3c0-435c-8c3b-71af8a2235a9	Duration: 777.08 ms	Billed Duration: 778 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337958277,"START RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59 Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337958914,"START RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337958953,"Updated item with id 1040148
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337958953,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337959013,"END RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337959013,"REPORT RequestId: 9bf166f2-09f4-4867-95ab-afe75b7a5e59	Duration: 736.17 ms	Billed Duration: 737 ms	Memory Size: 128 MB	Max Memory Used: 39 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337959622,"Updated item with id 447277
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337959622,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337959662,"END RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337959662,"REPORT RequestId: caccee7e-9d85-40fd-98d4-2356ac5c54c0	Duration: 747.95 ms	Billed Duration: 748 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337961100,"START RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337961802,"Updated item with id 884605
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337961802,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337961862,"END RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337961862,"REPORT RequestId: 14cdeaa8-9927-408b-b246-ed9d305ca0b4	Duration: 761.97 ms	Billed Duration: 762 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337962465,"START RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337962880,"START RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2 Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337963162,"Updated item with id 976573
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337963162,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337963221,"END RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337963221,"REPORT RequestId: 40330a73-2c97-4cfa-820c-ec384f42a95a	Duration: 756.34 ms	Billed Duration: 757 ms	Memory Size: 128 MB	Max Memory Used: 39 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337963259,"START RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337963573,"Updated item with id 455476
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337963573,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337963633,"END RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337963633,"REPORT RequestId: aebd4955-4985-4a6c-93cd-0708f4b2a9c2	Duration: 752.68 ms	Billed Duration: 753 ms	Memory Size: 128 MB	Max Memory Used: 39 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337963928,"Updated item with id 615656
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337963928,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337963981,"END RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337963982,"REPORT RequestId: 0690f6fa-56c9-4384-8bbe-8abc1de098dc	Duration: 722.29 ms	Billed Duration: 723 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337966844,"START RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337967542,"Updated item with id 496450
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337967542,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337967602,"END RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337967602,"REPORT RequestId: 8d272871-11a5-4c3a-b1b6-e780afa00132	Duration: 757.64 ms	Billed Duration: 758 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337969151,"START RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337969795,"START RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567 Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337969842,"Updated item with id 872585
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337969842,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337969902,"END RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337969902,"REPORT RequestId: 158f07e1-350a-4441-8f0d-80d98f1e52a7	Duration: 750.97 ms	Billed Duration: 751 ms	Memory Size: 128 MB	Max Memory Used: 42 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337970476,"Updated item with id 1008042
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337970476,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337970538,"END RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337970538,"REPORT RequestId: 54f743c5-6e52-459f-ad91-c9e32f3a7567	Duration: 742.57 ms	Billed Duration: 743 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337973237,"START RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337973913,"Updated item with id 614479
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337973913,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337973976,"END RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337973976,"REPORT RequestId: 71f41ae2-cb68-4daf-b5cc-62ce421bc04a	Duration: 739.40 ms	Billed Duration: 740 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337975956,"START RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337976625,"START RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337976653,"Updated item with id 1006462
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337976653,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337976713,"END RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337976713,"REPORT RequestId: 9eff7786-aeb7-443f-9459-2b4cd6be94de	Duration: 757.12 ms	Billed Duration: 758 ms	Memory Size: 128 MB	Max Memory Used: 43 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337976765,"START RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337977343,"Updated item with id 678512
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337977343,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337977404,"END RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337977404,"REPORT RequestId: 6cffd8c8-6282-41a3-ba77-d2e868562c6f	Duration: 779.17 ms	Billed Duration: 780 ms	Memory Size: 128 MB	Max Memory Used: 43 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337977453,"Updated item with id 832502
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337977453,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337977493,"END RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337977493,"REPORT RequestId: fa6a3352-170a-490f-974a-2f4d94e748ff	Duration: 728.30 ms	Billed Duration: 729 ms	Memory Size: 128 MB	Max Memory Used: 43 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337977642,"START RequestId: ca2d0347-8d15-445f-9ec2-f95dede94b7c Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337978338,"Updated item with id 346698
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337978338,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337978393,"END RequestId: ca2d0347-8d15-445f-9ec2-f95dede94b7c
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337978393,"REPORT RequestId: ca2d0347-8d15-445f-9ec2-f95dede94b7c	Duration: 751.31 ms	Billed Duration: 752 ms	Memory Size: 128 MB	Max Memory Used: 44 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337979684,"START RequestId: 1ab20cd8-c0fb-49d7-bd48-61261469eae9 Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337979814,"START RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337980373,"Updated item with id 667538
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337980373,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337980419,"START RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf Version: $LATEST
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337980434,"END RequestId: 1ab20cd8-c0fb-49d7-bd48-61261469eae9
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337980434,"REPORT RequestId: 1ab20cd8-c0fb-49d7-bd48-61261469eae9	Duration: 750.23 ms	Billed Duration: 751 ms	Memory Size: 128 MB	Max Memory Used: 45 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337980503,"Updated item with id 1143190
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337980503,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337980582,"END RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337980582,"REPORT RequestId: 6be63cce-fa3f-4c64-8ab6-8bea842ebb60	Duration: 768.01 ms	Billed Duration: 769 ms	Memory Size: 128 MB	Max Memory Used: 44 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337980725,"START RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337980895,"START RequestId: 9ab0fc78-5bc0-4186-be24-22861385cd65 Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337980922,"START RequestId: fabb38a7-8f13-4f2f-be33-1ac754b27837 Version: $LATEST
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337981344,"START RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c Version: $LATEST
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337981403,"Updated item with id 457332
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337981403,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337981463,"END RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337981463,"REPORT RequestId: 04b7a082-e757-42eb-90c6-f3299a8414fa	Duration: 738.28 ms	Billed Duration: 739 ms	Memory Size: 128 MB	Max Memory Used: 45 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337981593,"Updated item with id 678512
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337981593,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337981653,"END RequestId: 9ab0fc78-5bc0-4186-be24-22861385cd65
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337981653,"REPORT RequestId: 9ab0fc78-5bc0-4186-be24-22861385cd65	Duration: 757.64 ms	Billed Duration: 758 ms	Memory Size: 128 MB	Max Memory Used: 46 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337981665,"START RequestId: c11f3f41-24a8-4460-a43c-6eefb06ca2ff Version: $LATEST
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337982055,"Updated item with id 298618
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337982055,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337982114,"END RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337982114,"REPORT RequestId: 97cd050f-f854-4cc8-aea6-bdf5b218c96c	Duration: 770.01 ms	Billed Duration: 771 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337982582,"START RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2 Version: $LATEST
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337982656,"START RequestId: 33ae3261-53b0-40d6-bf42-3f5c3184dd9b Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337983235,"Updated item with id 502356
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337983235,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337983257,"START RequestId: 548e6788-7889-4cf9-bfa6-91cf5c74a184 Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337983261,"Updated item with id 709631
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337983261,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337983275,"END RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337983275,"REPORT RequestId: d2588a13-86a9-4aef-975b-06b01af58ef2	Duration: 692.64 ms	Billed Duration: 693 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+",2023/08/29/[$LATEST]16972b20a74c428b8c29de00e12cd851
+1693337983295,"END RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337983295,"REPORT RequestId: de226ceb-0fa2-47b3-bcb0-3553f40c0aaf	Duration: 2875.99 ms	Billed Duration: 2876 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2023/08/29/[$LATEST]bf8d0ba3f35d483589bd1345d641d6e1
+1693337983333,"Updated item with id 1006462
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337983333,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337983343,"Updated item with id 298618
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337983343,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337983393,"END RequestId: c11f3f41-24a8-4460-a43c-6eefb06ca2ff
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337983393,"REPORT RequestId: c11f3f41-24a8-4460-a43c-6eefb06ca2ff	Duration: 1728.27 ms	Billed Duration: 1729 ms	Memory Size: 128 MB	Max Memory Used: 47 MB	
+",2023/08/29/[$LATEST]af77f233fc6a4697a64c39c10207aa21
+1693337983403,"END RequestId: 33ae3261-53b0-40d6-bf42-3f5c3184dd9b
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337983404,"REPORT RequestId: 33ae3261-53b0-40d6-bf42-3f5c3184dd9b	Duration: 747.98 ms	Billed Duration: 748 ms	Memory Size: 128 MB	Max Memory Used: 46 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337983684,"Updated item with id 615656
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337983684,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337983704,"END RequestId: fabb38a7-8f13-4f2f-be33-1ac754b27837
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337983704,"REPORT RequestId: fabb38a7-8f13-4f2f-be33-1ac754b27837	Duration: 2781.40 ms	Billed Duration: 2782 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337983970,"Updated item with id 455476
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337983970,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337984030,"END RequestId: 548e6788-7889-4cf9-bfa6-91cf5c74a184
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337984030,"REPORT RequestId: 548e6788-7889-4cf9-bfa6-91cf5c74a184	Duration: 772.65 ms	Billed Duration: 773 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337984319,"START RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337984664,"START RequestId: fee87eaf-ccdf-4468-b748-c6a1cfb27b9e Version: $LATEST
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337984990,"Updated item with id 667538
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337984990,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337985029,"END RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337985029,"REPORT RequestId: d4cf6365-d020-4788-b47f-aa188887ec7e	Duration: 710.88 ms	Billed Duration: 711 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337985127,"START RequestId: b7f752ad-e488-4ef7-94a0-f977b5b6e168 Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337985344,"Updated item with id 614479
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337985344,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337985404,"END RequestId: fee87eaf-ccdf-4468-b748-c6a1cfb27b9e
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337985404,"REPORT RequestId: fee87eaf-ccdf-4468-b748-c6a1cfb27b9e	Duration: 739.68 ms	Billed Duration: 740 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337985810,"Updated item with id 502356
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337985810,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337985869,"END RequestId: b7f752ad-e488-4ef7-94a0-f977b5b6e168
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337985869,"REPORT RequestId: b7f752ad-e488-4ef7-94a0-f977b5b6e168	Duration: 742.40 ms	Billed Duration: 743 ms	Memory Size: 128 MB	Max Memory Used: 39 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337987204,"START RequestId: 0416499d-a800-4f5e-a720-dedcde38b87b Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337987274,"START RequestId: 4dde10c7-2f51-4851-b199-f57df700e87f Version: $LATEST
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337987870,"Updated item with id 1143190
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337987870,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337987930,"END RequestId: 0416499d-a800-4f5e-a720-dedcde38b87b
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337987930,"REPORT RequestId: 0416499d-a800-4f5e-a720-dedcde38b87b	Duration: 726.29 ms	Billed Duration: 727 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337987945,"Updated item with id 496450
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337987945,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337987969,"START RequestId: 8aaa19b0-4957-4115-a63a-d137afaeef0b Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337988004,"END RequestId: 4dde10c7-2f51-4851-b199-f57df700e87f
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337988004,"REPORT RequestId: 4dde10c7-2f51-4851-b199-f57df700e87f	Duration: 730.09 ms	Billed Duration: 731 ms	Memory Size: 128 MB	Max Memory Used: 38 MB	
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337988690,"Updated item with id 1040148
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337988690,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337988750,"END RequestId: 8aaa19b0-4957-4115-a63a-d137afaeef0b
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337988750,"REPORT RequestId: 8aaa19b0-4957-4115-a63a-d137afaeef0b	Duration: 781.57 ms	Billed Duration: 782 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337988871,"START RequestId: fb8cece8-4ac1-461e-8be0-5b4811da7d95 Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337988874,"START RequestId: c2e714a0-87e2-4e93-b87e-db072e255a62 Version: $LATEST
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337988973,"START RequestId: a1fdc70e-bbc1-4e86-bc77-3cb65acf7967 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337989525,"Updated item with id 872585
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337989525,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337989550,"Updated item with id 976573
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337989550,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337989564,"END RequestId: c2e714a0-87e2-4e93-b87e-db072e255a62
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337989564,"REPORT RequestId: c2e714a0-87e2-4e93-b87e-db072e255a62	Duration: 690.59 ms	Billed Duration: 691 ms	Memory Size: 128 MB	Max Memory Used: 39 MB	
+",2023/08/29/[$LATEST]4dec84851497447fb82c7bb7ba8df448
+1693337989610,"END RequestId: fb8cece8-4ac1-461e-8be0-5b4811da7d95
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337989610,"REPORT RequestId: fb8cece8-4ac1-461e-8be0-5b4811da7d95	Duration: 738.79 ms	Billed Duration: 739 ms	Memory Size: 128 MB	Max Memory Used: 42 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337989696,"START RequestId: 427fa4aa-6dd3-4bd7-8068-58c42f68ee58 Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337990390,"Updated item with id 884605
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337990390,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337990469,"END RequestId: 427fa4aa-6dd3-4bd7-8068-58c42f68ee58
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337990470,"REPORT RequestId: 427fa4aa-6dd3-4bd7-8068-58c42f68ee58	Duration: 773.82 ms	Billed Duration: 774 ms	Memory Size: 128 MB	Max Memory Used: 43 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337990583,"Updated item with id 709631
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337990583,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337990643,"END RequestId: a1fdc70e-bbc1-4e86-bc77-3cb65acf7967
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337990643,"REPORT RequestId: a1fdc70e-bbc1-4e86-bc77-3cb65acf7967	Duration: 1670.30 ms	Billed Duration: 1671 ms	Memory Size: 128 MB	Max Memory Used: 47 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337990831,"START RequestId: e6e74121-85d0-49bd-88e8-fd209cec6ada Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337991483,"Updated item with id 447277
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337991483,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337991543,"END RequestId: e6e74121-85d0-49bd-88e8-fd209cec6ada
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337991543,"REPORT RequestId: e6e74121-85d0-49bd-88e8-fd209cec6ada	Duration: 712.00 ms	Billed Duration: 712 ms	Memory Size: 128 MB	Max Memory Used: 47 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337992010,"START RequestId: c4f9c86f-dce3-4166-808c-805b0347f971 Version: $LATEST
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337992663,"Updated item with id 457332
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337992663,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337992692,"START RequestId: bc0033a8-f475-445d-ba74-b26574d31e01 Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337992723,"END RequestId: c4f9c86f-dce3-4166-808c-805b0347f971
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337992723,"REPORT RequestId: c4f9c86f-dce3-4166-808c-805b0347f971	Duration: 713.34 ms	Billed Duration: 714 ms	Memory Size: 128 MB	Max Memory Used: 47 MB	
+",2023/08/29/[$LATEST]2166dc5922b74147b86364e129d4694b
+1693337993390,"Updated item with id 832502
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337993390,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337993450,"END RequestId: bc0033a8-f475-445d-ba74-b26574d31e01
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337993450,"REPORT RequestId: bc0033a8-f475-445d-ba74-b26574d31e01	Duration: 758.38 ms	Billed Duration: 759 ms	Memory Size: 128 MB	Max Memory Used: 44 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337993717,"START RequestId: dafa432e-4011-4864-ab25-85152fec7e6a Version: $LATEST
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337994370,"Updated item with id 1008042
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337994370,"la funcion se ejecuta correctamente
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337994430,"END RequestId: dafa432e-4011-4864-ab25-85152fec7e6a
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8
+1693337994430,"REPORT RequestId: dafa432e-4011-4864-ab25-85152fec7e6a	Duration: 713.32 ms	Billed Duration: 714 ms	Memory Size: 128 MB	Max Memory Used: 45 MB	
+",2023/08/29/[$LATEST]7e569466fe3c40b783fa8d9cb31dbdf8

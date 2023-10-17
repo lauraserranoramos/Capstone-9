@@ -1,0 +1,179 @@
+timestamp,message
+1693415133081,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415133382,"START RequestId: af2efd49-fcb5-456c-a1a3-ce0dd4c40a27 Version: $LATEST
+"
+1693415136387,"2023-08-30T17:05:36.387Z af2efd49-fcb5-456c-a1a3-ce0dd4c40a27 Task timed out after 3.00 seconds
+
+"
+1693415136387,"END RequestId: af2efd49-fcb5-456c-a1a3-ce0dd4c40a27
+"
+1693415136387,"REPORT RequestId: af2efd49-fcb5-456c-a1a3-ce0dd4c40a27	Duration: 3004.26 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 83 MB	Init Duration: 300.59 ms	
+"
+1693415136510,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415190102,"START RequestId: 5ee57a0f-6f50-4dbe-b5f5-0fbffa21f62b Version: $LATEST
+"
+1693415193108,"2023-08-30T17:06:33.107Z 5ee57a0f-6f50-4dbe-b5f5-0fbffa21f62b Task timed out after 3.01 seconds
+
+"
+1693415193108,"END RequestId: 5ee57a0f-6f50-4dbe-b5f5-0fbffa21f62b
+"
+1693415193108,"REPORT RequestId: 5ee57a0f-6f50-4dbe-b5f5-0fbffa21f62b	Duration: 3005.43 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 41 MB	
+"
+1693415193249,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415250803,"START RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469 Version: $LATEST
+"
+1693415253808,"2023-08-30T17:07:33.808Z b10c46c9-2d15-4bf7-aa2d-e0aa26e72469 Task timed out after 3.01 seconds
+
+"
+1693415253808,"END RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469
+"
+1693415253808,"REPORT RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469	Duration: 3006.04 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415253942,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415259733,"START RequestId: 0f88cee2-5978-4828-ae38-8def770b1ef6 Version: $LATEST
+"
+1693415262739,"2023-08-30T17:07:42.739Z 0f88cee2-5978-4828-ae38-8def770b1ef6 Task timed out after 3.01 seconds
+
+"
+1693415262739,"END RequestId: 0f88cee2-5978-4828-ae38-8def770b1ef6
+"
+1693415262739,"REPORT RequestId: 0f88cee2-5978-4828-ae38-8def770b1ef6	Duration: 3006.05 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415262854,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415300316,"START RequestId: 5ee57a0f-6f50-4dbe-b5f5-0fbffa21f62b Version: $LATEST
+"
+1693415303322,"2023-08-30T17:08:23.321Z 5ee57a0f-6f50-4dbe-b5f5-0fbffa21f62b Task timed out after 3.01 seconds
+
+"
+1693415303322,"END RequestId: 5ee57a0f-6f50-4dbe-b5f5-0fbffa21f62b
+"
+1693415303322,"REPORT RequestId: 5ee57a0f-6f50-4dbe-b5f5-0fbffa21f62b	Duration: 3005.97 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415303459,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415310566,"START RequestId: 26517c26-bcdb-4044-8a55-9319650aa591 Version: $LATEST
+"
+1693415313572,"2023-08-30T17:08:33.572Z 26517c26-bcdb-4044-8a55-9319650aa591 Task timed out after 3.01 seconds
+
+"
+1693415313572,"END RequestId: 26517c26-bcdb-4044-8a55-9319650aa591
+"
+1693415313572,"REPORT RequestId: 26517c26-bcdb-4044-8a55-9319650aa591	Duration: 3005.95 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415313691,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415320962,"START RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469 Version: $LATEST
+"
+1693415323968,"2023-08-30T17:08:43.968Z b10c46c9-2d15-4bf7-aa2d-e0aa26e72469 Task timed out after 3.01 seconds
+
+"
+1693415323968,"END RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469
+"
+1693415323968,"REPORT RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469	Duration: 3006.20 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415324096,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415370696,"START RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476 Version: $LATEST
+"
+1693415373702,"2023-08-30T17:09:33.702Z 1d564392-4b3f-41f5-b2d8-50491ac75476 Task timed out after 3.01 seconds
+
+"
+1693415373702,"END RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476
+"
+1693415373702,"REPORT RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476	Duration: 3005.98 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415373831,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415375935,"START RequestId: 0f88cee2-5978-4828-ae38-8def770b1ef6 Version: $LATEST
+"
+1693415378949,"2023-08-30T17:09:38.949Z 0f88cee2-5978-4828-ae38-8def770b1ef6 Task timed out after 3.01 seconds
+
+"
+1693415378949,"END RequestId: 0f88cee2-5978-4828-ae38-8def770b1ef6
+"
+1693415378949,"REPORT RequestId: 0f88cee2-5978-4828-ae38-8def770b1ef6	Duration: 3013.97 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415379071,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415430677,"START RequestId: 75fbc9fe-0841-4eaf-88ab-830eab8852b7 Version: $LATEST
+"
+1693415433689,"2023-08-30T17:10:33.689Z 75fbc9fe-0841-4eaf-88ab-830eab8852b7 Task timed out after 3.01 seconds
+
+"
+1693415433689,"END RequestId: 75fbc9fe-0841-4eaf-88ab-830eab8852b7
+"
+1693415433689,"REPORT RequestId: 75fbc9fe-0841-4eaf-88ab-830eab8852b7	Duration: 3012.70 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415433812,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415434047,"START RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476 Version: $LATEST
+"
+1693415437054,"2023-08-30T17:10:37.053Z 1d564392-4b3f-41f5-b2d8-50491ac75476 Task timed out after 3.01 seconds
+
+"
+1693415437054,"END RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476
+"
+1693415437054,"REPORT RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476	Duration: 3006.14 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415437242,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415447118,"START RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469 Version: $LATEST
+"
+1693415450128,"2023-08-30T17:10:50.128Z b10c46c9-2d15-4bf7-aa2d-e0aa26e72469 Task timed out after 3.01 seconds
+
+"
+1693415450128,"END RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469
+"
+1693415450128,"REPORT RequestId: b10c46c9-2d15-4bf7-aa2d-e0aa26e72469	Duration: 3009.87 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415450248,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415489893,"START RequestId: 26517c26-bcdb-4044-8a55-9319650aa591 Version: $LATEST
+"
+1693415492899,"2023-08-30T17:11:32.899Z 26517c26-bcdb-4044-8a55-9319650aa591 Task timed out after 3.01 seconds
+
+"
+1693415492899,"END RequestId: 26517c26-bcdb-4044-8a55-9319650aa591
+"
+1693415492900,"REPORT RequestId: 26517c26-bcdb-4044-8a55-9319650aa591	Duration: 3006.09 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415493037,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415496850,"START RequestId: 75fbc9fe-0841-4eaf-88ab-830eab8852b7 Version: $LATEST
+"
+1693415499856,"2023-08-30T17:11:39.856Z 75fbc9fe-0841-4eaf-88ab-830eab8852b7 Task timed out after 3.01 seconds
+
+"
+1693415499856,"END RequestId: 75fbc9fe-0841-4eaf-88ab-830eab8852b7
+"
+1693415499856,"REPORT RequestId: 75fbc9fe-0841-4eaf-88ab-830eab8852b7	Duration: 3006.20 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415499981,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415501413,"START RequestId: 0d99dba4-0334-4cc8-be17-01bf7e4f841a Version: $LATEST
+"
+1693415504430,"2023-08-30T17:11:44.430Z 0d99dba4-0334-4cc8-be17-01bf7e4f841a Task timed out after 3.02 seconds
+
+"
+1693415504430,"END RequestId: 0d99dba4-0334-4cc8-be17-01bf7e4f841a
+"
+1693415504430,"REPORT RequestId: 0d99dba4-0334-4cc8-be17-01bf7e4f841a	Duration: 3016.71 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415504561,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
+1693415563209,"START RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476 Version: $LATEST
+"
+1693415566215,"2023-08-30T17:12:46.215Z 1d564392-4b3f-41f5-b2d8-50491ac75476 Task timed out after 3.01 seconds
+
+"
+1693415566215,"END RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476
+"
+1693415566215,"REPORT RequestId: 1d564392-4b3f-41f5-b2d8-50491ac75476	Duration: 3006.32 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 40 MB	
+"
+1693415566361,"INIT_START Runtime Version: python:3.9.v28	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:f4836a715e9c05bcad04e1cc2f311813789bc9d8d1f53ea5aa6b01855bd983f5
+"
